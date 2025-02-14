@@ -1,0 +1,25 @@
+.lefty img{
+    display: flex;
+    height: 200px;
+
+}
+.lefty h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: red;
+    color: black;
+}
+.righty{
+    display: flex;
+    cursor: pointer;
+    color: blue;
+    
+}
+.righty :hover{
+    background-color: red;
+}
+.centre button{
+    color: yellow;
+    
+
+
+}

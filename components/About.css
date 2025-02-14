@@ -1,0 +1,12 @@
+.retro img{
+  
+    height: 650px;
+    
+
+}
+
+.retro{
+    display: flex;
+    gap: 20px;
+    
+}

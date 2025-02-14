@@ -1,0 +1,22 @@
+.navbar img{
+    width: 200px;
+    height: 100px;
+    display: flex;
+    cursor: pointer;
+    
+    
+    
+}
+.navbar{
+    background-color: red;
+}
+.left ul{
+    display: flex;
+    gap: 2px;
+    list-style: none;
+    justify-content: space-evenly;
+
+}
+.left ul :hover{
+    color: white;
+}
